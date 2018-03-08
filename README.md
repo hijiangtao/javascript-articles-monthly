@@ -2,7 +2,7 @@
 
 每月更新的十大 JavaScript 文章清单。
 
-点击上方 "Watch" 每月获取一次关于十大 JavaScript 文章的邮件提醒。如果觉得有帮助的话，欢迎垫个 "Star" 支持哦。
+点击上方 **"Watch"** 每月获取一次关于十大 JavaScript 文章的邮件提醒。如果觉得有帮助的话，欢迎点个 **"Star"** 支持哦。
 
 [Mybridge AI](https://www.mybridge.co) 通过分享数、阅读时间以及自定义的机器学习算法为文章进行排名。
 
@@ -15,7 +15,7 @@
 
 * [2018年2月版 - JavaScript 十大文章](./2018/02.md)
 * [2018年3月版 - JavaScript 十大文章](./2018/03.md)
-
+* 2018年4月版 - JavaScript 十大文章 - 即将来临
 
 ## LICENSE
 
