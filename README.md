@@ -15,7 +15,8 @@
 
 * [2018年2月版 - JavaScript 十大文章](./2018/02.md)
 * [2018年3月版 - JavaScript 十大文章](./2018/03.md)
-* 2018年4月版 - JavaScript 十大文章 - 即将来临
+* [2018年4月版 - JavaScript 十大文章](./2018/04.md)
+* [2018年5月版 - JavaScript 十大文章] - 即将来临
 
 ## LICENSE
 
