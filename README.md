@@ -1,6 +1,6 @@
 # javascript-articles-monthly
 
-每月更新的十大 JavaScript 文章清单。
+每月更新的 JavaScript 十大文章清单。
 
 点击上方 **"Watch"** 每月获取一次关于十大 JavaScript 文章的邮件提醒。如果觉得有帮助的话，欢迎点个 **"Star"** 支持哦。
 
@@ -11,12 +11,17 @@
 英文原版文章发表在 [Mybridge Publication](https://medium.mybridge.co)
 
 
-月度汇总：
+## 月度汇总列表
 
 * [2018年2月版 - JavaScript 十大文章](./2018/02.md)
 * [2018年3月版 - JavaScript 十大文章](./2018/03.md)
 * [2018年4月版 - JavaScript 十大文章](./2018/04.md)
-* [2018年5月版 - JavaScript 十大文章] - 即将来临
+* [2018年5月版 - JavaScript 十大文章](./2018/05.md)
+* [2018年5月版 - JavaScript 十大文章]() - 即将来临
+
+## 联系
+
+[@hijiangtao](https://github.com/hijiangtao)
 
 ## LICENSE
 
