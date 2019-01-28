@@ -8,9 +8,11 @@
 
 从2019年1月起，月刊不再同步其标注的统计结果，所列清单会整合包含 MyBridge、Google Developers、MDN 与 Medium 优秀博客在内的多个信息源，整合方式为人工筛选，所含内容也不再仅限于每月十篇。
 
-## 月度汇总列表
+如果你在日常看到关于 JavaScript 的优秀文章也欢迎向本项目投稿哦，联系邮箱可在本人 GitHub 页面找到。
 
-|刊号|内容|
+## 历史清单汇总
+
+|刊号|内容|
 |---|---|
 |[2018年1月 JavaScript 十大文章](./2018/02.md)|黑客技术，框架，启动优化，趋势，Object Resr/Spread属性，机器学习，ES6，本地存储|
 |[2018年2月 JavaScript 十大文章](./2018/03.md)|webpack，风格指南，测试，JSConf Asia，Promise，本地存储，调试，错误处理，Samshing Conf|
