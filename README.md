@@ -10,6 +10,8 @@
 
 英文原版文章发表在 [Mybridge Publication](https://medium.mybridge.co)
 
+*注：从2019年1月起，月刊不再同步 MyBridge 统计结果，所列清单会整合包含 MyBridge、Google Developers、MDN 与 Medium 优秀博客在内的多个信息源，整合方式为人工筛选，欢迎讨论。*
+
 ## 月度汇总列表
 
 * [2018年1月 - JavaScript 十大文章](./2018/02.md)
@@ -23,7 +25,8 @@
 * [2018年9月 - JavaScript 十大文章](./2018/10.md)
 * [2018年10月 - JavaScript 十大文章](./2018/11.md)
 * [2018年11月 - JavaScript 十大文章](./2018/12.md)
-* 2018年12月 - JavaScript 十大文章 - 明年再见
+* [JavaScript 月刊 - 2019年1月期](./2019/01.md)
+* JavaScript 月刊 - 2019年2月期 - 即将来临
 
 ## 联系
 
