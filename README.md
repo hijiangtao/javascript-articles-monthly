@@ -26,7 +26,7 @@
 |[2018年10月 JavaScript 十大文章](./2018/11.md)|JavaScript 手册，TensorFlow.js，WebAssembly，JavaScript 原型，Web 现状，Python，自适应服务，设计模式，函数式编程，精通指南|
 |[2018年11月 JavaScript 十大文章](./2018/12.md)|异步，函数式编程，调试与错误处理，面试，JS 特性|
 |[JavaScript 月刊 / 2019年1月期](./2019/01.md)|React，PWA，年度回顾，Flutter，CSSOM，class|
-|[JavaScript 月刊 / 2019年2月期](./2019/01.md)|年度回顾，人工智能，ECMAScript，最佳实践，JavaScript Module，TypeScript，动画与 GraphGQL|
+|[JavaScript 月刊 / 2019年2月期](./2019/02.md)|年度回顾，人工智能，ECMAScript，最佳实践，JavaScript Module，TypeScript，动画与 GraphGQL|
 |JavaScript 月刊 / 2019年3月期 - 即将来临|-|
 
 
