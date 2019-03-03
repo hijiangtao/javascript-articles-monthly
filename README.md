@@ -1,12 +1,12 @@
 # javascript-articles-monthly
 
-每月更新的 JavaScript 月刊，包含当月汇总的优秀文章清单。
+每月更新的 JavaScript 月刊，包含当月汇总的优秀文章清单及前端周边动态。
 
 点击上方 **"Watch"** 获取 JavaScript 十大文章月刊更新的邮件提醒。如果觉得有帮助的话，欢迎点个 **"Star"** 支持哦。
 
 2019年1月之前的月刊内容同步自 [Mybridge AI](https://www.mybridge.co)，他们通过分享数、阅读时间以及自定义的机器学习算法为文章进行排名。整体筛选比例大约为 0.8%。
 
-从2019年1月起，月刊不再同步其标注的统计结果，所列清单会整合包含 MyBridge、Google Developers、MDN 与 Medium 优秀博客在内的多个信息源，整合方式为人工筛选，所含内容也不再仅限于每月十篇。
+从2019年1月起，月刊不再同步其统计结果，而是整合包含 MyBridge、Google Developers、MDN、JavaScript Weekly、Nodejs weekly 与 Medium 优秀博客在内的多个信息源，方式为人工筛选，所含内容也更加丰富，不再仅限于每月十篇。
 
 如果你在日常看到关于 JavaScript 的优秀文章也欢迎向本项目投稿哦，联系邮箱可在本人 GitHub 页面找到。
 
@@ -27,7 +27,8 @@
 |[2018年11月 JavaScript 十大文章](./2018/12.md)|异步，函数式编程，调试与错误处理，面试，JS 特性|
 |[JavaScript 月刊 / 2019年1月期](./2019/01.md)|React，PWA，年度回顾，Flutter，CSSOM，class|
 |[JavaScript 月刊 / 2019年2月期](./2019/02.md)|年度回顾，人工智能，ECMAScript，最佳实践，JavaScript Module，TypeScript，动画与 GraphQL|
-|JavaScript 月刊 / 2019年3月期 - 即将来临|-|
+|[JavaScript 月刊 / 2019年3月期](./2019/03.md)|JavaScript 未来发展、WebAssembly、JavaScript 加载、正则表达式、HTTP 请求、Node.js 框架、Puppeteer、Docker、TypeScript 以及 Promise|
+|JavaScript 月刊 / 2019年4月期 - 即将来临|-|
 
 
 ## 联系
