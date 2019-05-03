@@ -29,7 +29,8 @@
 |[JavaScript 月刊 / 2019年2月期](./2019/02.md)|年度回顾，人工智能，ECMAScript，最佳实践，JavaScript Module，TypeScript，动画与 GraphQL|
 |[JavaScript 月刊 / 2019年3月期](./2019/03.md)|JavaScript 未来发展、WebAssembly、JavaScript 加载、正则表达式、HTTP 请求、Node.js 框架、Puppeteer、Docker、TypeScript 以及 Promise|
 |[JavaScript 月刊 / 2019年4月期](./2019/04.md)|V8、React Hooks、Node.js、字符串、TypeScript、单元测试、Dart、语言规范、箭头函数、webpack、数组、WebGL|
-|JavaScript 月刊 / 2019年5月期 - 即将来临|V8、React Hooks、Node.js、字符串、TypeScript、单元测试、Dart、语言规范、箭头函数、webpack、数组、WebGL|
+|[JavaScript 月刊 / 2019年5月期](./2019/05.md)|Console API、WebAssembly、JavaScript 技巧、系统思考、开发手册、V8、Nodejs、JVM、TypeScript|
+|JavaScript 月刊 / 2019年6月期 - 即将来临|-|
 
 
 ## 联系
