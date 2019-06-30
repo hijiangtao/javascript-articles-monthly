@@ -31,7 +31,8 @@
 |[JavaScript 月刊 / 2019年4月期](./2019/04.md)|V8、React Hooks、Node.js、字符串、TypeScript、单元测试、Dart、语言规范、箭头函数、webpack、数组、WebGL|
 |[JavaScript 月刊 / 2019年5月期](./2019/05.md)|Console API、WebAssembly、JavaScript 技巧、系统思考、开发手册、V8、Nodejs、JVM、TypeScript|
 |[JavaScript 月刊 / 2019年6月期](./2019/06.md)|WebAssembly、语言新特性、爬虫、Proxy、Promise、JavaScript 引擎、Vuejs、React、Serverless、Threejs、错误处理、开发者工具、Vim、代码规范|
-|JavaScript 月刊 / 2019年7月期 - 即将来临|-|
+|[JavaScript 月刊 / 2019年7月期](./2019/06.md)|Web Components、Vue、Promise、Web Worker、jQuery、Hooks、开源、React 和函数式用法|
+|JavaScript 月刊 / 2019年8月期 - 即将来临|-|
 
 
 ## 联系
