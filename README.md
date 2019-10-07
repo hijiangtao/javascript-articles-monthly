@@ -34,7 +34,8 @@
 |[JavaScript 月刊 / 2019年7月期](./2019/07.md)|Web Components、Vue、Promise、Web Worker、jQuery、Hooks、开源、React 和函数式用法|
 |[JavaScript 月刊 / 2019年8月期](./2019/08.md)|函数式编程、游戏开发、JavaScript 代价、SEO、编程建议、阅读、全局变量、WebAssembly、Date、JavaScript 基础|
 |[JavaScript 月刊 / 2019年9月期](./2019/09.md)|JavaScript 历史、Symbol、JavaScript Modules、Memorization、Web Worker、异步生成器、ES 提案、应用开发、React Hooks、Vuejs3|
-|[JavaScript 月刊 / 2019年10月期]() - 即将来临|-|
+|[JavaScript 月刊 / 2019年10月期](./2019/10.md)|性能优化、实用指南、tensorflow.js、V8、D3、TypeScript、数值精度、JavaScript 生态、游戏|
+|[JavaScript 月刊 / 2019年11月期]() - 即将来临|-|
 
 
 ## 联系
