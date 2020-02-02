@@ -38,7 +38,8 @@
 |[JavaScript 月刊 / 2019年11月期](./2019/11.md)|React、Vue、Babel、await、import()、Redux、JavaScript API、共享可变状态、Nordic.js|
 |[JavaScript 月刊 / 2019年12月期](./2019/12.md)|Web API、编译、年度报告、WebAssembly、入门指南、AssemblyScript、前端工具、Vue、ECMAScript、设计模式|
 |[2020.1 / JavaScript 月刊](./2020/01.md)|年终总结、JavaScript 历史、console.log、SICP、JSON 解析器、Node.js、ECMAScript、Promise、算法与数据结构、运算符|
-|[2020.2 / JavaScript 月刊]() - 即将来临|-|
+|[2020.2 / JavaScript 月刊](./2020/02.md)|内存管理、开源库报告、ESLint、Tree Shaking、TDD、ECMAScript、年度报告、代码优化、TypeScript 和 JavaScript 教程|
+|[2020.3 / JavaScript 月刊](./2020/03.md) - 即将来临|-|
 
 ## 联系
 
