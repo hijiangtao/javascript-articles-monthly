@@ -1,4 +1,4 @@
-# javascript-articles-monthly
+# JavaScript 文章精选月刊
 
 每月更新的 JavaScript 月刊，包含当月汇总的优秀文章清单及前端周边动态。
 
@@ -42,7 +42,8 @@
 |[JavaScript.2020.3 - Vue.js 发展纪录](./2020/03.md)|WebAssembly、console、TypeScript、开源项目、可视化、Angular、ECMAScript、2D物理仿真、内存泄漏、Web API|
 |[JavaScript.2020.4 - HOPL 论文收录](./2020/04.md)|ECMAScript、V8 压缩指针、可视化图表、D3、3D 游戏开发、JavaScript paper、Svelte、高阶函数、class、Node.js、最佳实践|
 |[JavaScript.2020.5 - 为 Web 瘦身](./2020/05.md)|TypeScript、ECMAScript、框架入门指南、开源库代价分析、React.js API、GitHub 最佳实践、JavaScript 框架介绍、模块化、Hooks、Web API、Error Boundary、设计模式|
-|[JavaScript.2020.6](./2020/06.md) - 即将来临|-|
+|[JavaScript.2020.6 - Deno 迎来1.0时代](./2020/06.md)|WebAssembly、Vue、ECMAScript proposal、TypeScript、WebGL、JavaScript 发展、声明式编程、JavaScript 特性、代码片段、三方依赖案例分析、React|
+|[JavaScript.2020.7](./2020/07.md) - 即将来临|-|
 
 ## 联系
 
