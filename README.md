@@ -53,7 +53,8 @@
 |[JavaScript.2020.5 - 为 Web 瘦身](./2020/05.md)|TypeScript、ECMAScript、框架入门指南、开源库代价分析、React.js API、GitHub 最佳实践、JavaScript 框架介绍、模块化、Hooks、Web API、Error Boundary、设计模式|
 |[JavaScript.2020.6 - Deno 迎来1.0时代](./2020/06.md)|WebAssembly、Vue、ECMAScript proposal、TypeScript、WebGL、JavaScript 发展、声明式编程、JavaScript 特性、代码片段、三方依赖案例分析、React|
 |[JavaScript.2020.7 - 随着 React 兴起的那些故事](./2020/07.md)|React、JavaScript 教程、JavaScript 问题集锦、包管理器、Express、moment、REST API、Angular、工作流配置、端到端测试、Webpack|
-|[JavaScript.2020.8](./2020/08.md) - 即将来临|-|
+|[JavaScript.2020.8](./2020/08.md) - V8 最新进展|V8、JavaScript 最新进展、TypeScript、webpack、Speculation、Node.js、ECMAScript、Web API、模版字符串、React、Vue|
+|[JavaScript.2020.9](./2020/09.md) - 即将来临|-|
 
 ## 联系
 
