@@ -13,9 +13,10 @@
 
 ### 关于月刊内容变更
 
-1. 从2019年4月起，月刊会不定期附上封面主题，主要推送介绍一个前端相关的人5⃣️、技术或者故事。
+1. 从2019年4月起，月刊会不定期附上封面主题，主要推送介绍一个前端相关的人物、技术或者故事。
 2. 从20202年5月起，每个推荐文章后方会附上作者姓名或者信源地址，供大家参考。
 3. 历史月刊中均以当月产出的技术文章为收录基准，从2020年7月起开始做出调整，清单会依旧按照文章的发布时间来分类出刊，但若自己看到一些较好的非当月技术文章，也会附在清单末尾，用 `[H]` 标注。
+4. JavaScript.2018.11 后一期为 JavaScript.2019.1 并非有一个月月刊断档，而是序号编排变化所致。
 
 如果你在日常看到关于 JavaScript 的优秀文章也欢迎向本项目投稿哦，联系邮箱可在本人 GitHub 页面找到。
 
@@ -23,17 +24,17 @@
 
 |刊号|涵盖内容|
 |---|---|
-|[2018年1月 JavaScript 十大文章](./2018/02.md)|黑客技术，框架，启动优化，趋势，Object Resr/Spread属性，机器学习，ES6，本地存储|
-|[2018年2月 JavaScript 十大文章](./2018/03.md)|webpack，风格指南，测试，JSConf Asia，Promise，本地存储，调试，错误处理，Samshing Conf|
-|[2018年3月 JavaScript 十大文章](./2018/04.md)|风格指南，打包，ES 模块，ES2018，ES2019，设计模式，状态机，TypeScript，第三方库，优化|
-|[2018年4月 JavaScript 十大文章](./2018/05.md)|软件设计，函数式编程，安全，文件结构，设计模式，TC39，Webpack，Apply、Call 与 Bind 函数|
-|[2018年5月 JavaScript 十大文章](./2018/06.md)|算法、ES6 特性、现代 JavaScript、递归、加载器（效果）、JavaScript 方法、Webpack 4、Proxy、Firebase 以及 Guess.js|
-|[2018年6月 JavaScript 十大文章](./2018/07.md)|算法，模块，Javascript Console，async/await，深度学习，编程面试，神经网络，数组，异步编程，性能|
-|[2018年7月 JavaScript 十大文章](./2018/08.md)|JavaScript 代价, React, 响应式系统, Dates, 状态, 新手指导, 引擎工作原理, Promises, Async/Await, 优化|
-|[2018年8月 JavaScript 十大文章](./2018/09.md)|JavaScript 教程，JAVA 开发者思考视角，俄罗斯方块游戏，重新思考 JavaScript，Context，堆栈，函数式编程，代码分割，TensorFlow.js 与 JSCamp 演讲|
-|[2018年9月 JavaScript 十大文章](./2018/10.md)|TensorFlow，Y 组合子，UNDERRUN 游戏，编程指导，闭包，生成艺术，面试题，JavaScript 计时器|
-|[2018年10月 JavaScript 十大文章](./2018/11.md)|JavaScript 手册，TensorFlow.js，WebAssembly，JavaScript 原型，Web 现状，Python，自适应服务，设计模式，函数式编程，精通指南|
-|[2018年11月 JavaScript 十大文章](./2018/12.md)|异步，函数式编程，调试与错误处理，面试，JS 特性|
+|[JavaScript.2018.1](./2018/02.md)|黑客技术，框架，启动优化，趋势，Object Resr/Spread属性，机器学习，ES6，本地存储|
+|[JavaScript.2018.2](./2018/03.md)|webpack，风格指南，测试，JSConf Asia，Promise，本地存储，调试，错误处理，Samshing Conf|
+|[JavaScript.2018.3](./2018/04.md)|风格指南，打包，ES 模块，ES2018，ES2019，设计模式，状态机，TypeScript，第三方库，优化|
+|[JavaScript.2018.4](./2018/05.md)|软件设计，函数式编程，安全，文件结构，设计模式，TC39，Webpack，Apply、Call 与 Bind 函数|
+|[JavaScript.2018.5](./2018/06.md)|算法、ES6 特性、现代 JavaScript、递归、加载器（效果）、JavaScript 方法、Webpack 4、Proxy、Firebase 以及 Guess.js|
+|[JavaScript.2018.6](./2018/07.md)|算法，模块，Javascript Console，async/await，深度学习，编程面试，神经网络，数组，异步编程，性能|
+|[JavaScript.2018.7](./2018/08.md)|JavaScript 代价, React, 响应式系统, Dates, 状态, 新手指导, 引擎工作原理, Promises, Async/Await, 优化|
+|[JavaScript.2018.8](./2018/09.md)|JavaScript 教程，JAVA 开发者思考视角，俄罗斯方块游戏，重新思考 JavaScript，Context，堆栈，函数式编程，代码分割，TensorFlow.js 与 JSCamp 演讲|
+|[JavaScript.2018.9](./2018/10.md)|TensorFlow，Y 组合子，UNDERRUN 游戏，编程指导，闭包，生成艺术，面试题，JavaScript 计时器|
+|[JavaScript.2018.10](./2018/11.md)|JavaScript 手册，TensorFlow.js，WebAssembly，JavaScript 原型，Web 现状，Python，自适应服务，设计模式，函数式编程，精通指南|
+|[JavaScript.2018.11](./2018/12.md)|异步，函数式编程，调试与错误处理，面试，JS 特性|
 |[JavaScript.2019.1](./2019/01.md)|React，PWA，年度回顾，Flutter，CSSOM，class|
 |[JavaScript.2019.2](./2019/02.md)|年度回顾，人工智能，ECMAScript，最佳实践，JavaScript Module，TypeScript，动画与 GraphQL|
 |[JavaScript.2019.3](./2019/03.md)|JavaScript 未来发展、WebAssembly、JavaScript 加载、正则表达式、HTTP 请求、Node.js 框架、Puppeteer、Docker、TypeScript 以及 Promise|
@@ -53,7 +54,7 @@
 |[JavaScript.2020.5 - 为 Web 瘦身](./2020/05.md)|TypeScript、ECMAScript、框架入门指南、开源库代价分析、React.js API、GitHub 最佳实践、JavaScript 框架介绍、模块化、Hooks、Web API、Error Boundary、设计模式|
 |[JavaScript.2020.6 - Deno 迎来1.0时代](./2020/06.md)|WebAssembly、Vue、ECMAScript proposal、TypeScript、WebGL、JavaScript 发展、声明式编程、JavaScript 特性、代码片段、三方依赖案例分析、React|
 |[JavaScript.2020.7 - 随着 React 兴起的那些故事](./2020/07.md)|React、JavaScript 教程、JavaScript 问题集锦、包管理器、Express、moment、REST API、Angular、工作流配置、端到端测试、Webpack|
-|[JavaScript.2020.8](./2020/08.md) - V8 最新进展|V8、JavaScript 最新进展、TypeScript、webpack、Speculation、Node.js、ECMAScript、Web API、模版字符串、React、Vue|
+|[JavaScript.2020.8 - V8 最新进展](./2020/08.md)|V8、JavaScript 最新进展、TypeScript、webpack、Speculation、Node.js、ECMAScript、Web API、模版字符串、React、Vue|
 |[JavaScript.2020.9](./2020/09.md) - 即将来临|-|
 
 ## 联系
