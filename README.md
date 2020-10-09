@@ -56,6 +56,7 @@
 |[JavaScript.2020.7 - 随着 React 兴起的那些故事](./2020/07.md)|React、JavaScript 教程、JavaScript 问题集锦、包管理器、Express、moment、REST API、Angular、工作流配置、端到端测试、Webpack|
 |[JavaScript.2020.8](./2020/08.md) - V8 最新进展|V8、JavaScript 最新进展、TypeScript、webpack、Speculation、Node.js、ECMAScript、Web API、模版字符串、React、Vue|
 |[JavaScript.2020.9](./2020/09.md) - D3 6.0 发布|RxJS、Number、Rust、单页应用、Deno、应用开发、Angular、工作流、this、性能监控|
+|[JavaScript.2020.10 - Moment.js 宣布进入维护状态](./2020/10.md)|ECMAScript、JavaScript API、数据科学、JavaScript 难点、requestAnimationFrame、插件系统、数组操作、变量与作用域、moment.js|
 
 ## 联系
 
