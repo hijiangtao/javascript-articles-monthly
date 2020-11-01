@@ -57,6 +57,7 @@
 |[JavaScript.2020.8](./2020/08.md) - V8 最新进展|V8、JavaScript 最新进展、TypeScript、webpack、Speculation、Node.js、ECMAScript、Web API、模版字符串、React、Vue|
 |[JavaScript.2020.9](./2020/09.md) - D3 6.0 发布|RxJS、Number、Rust、单页应用、Deno、应用开发、Angular、工作流、this、性能监控|
 |[JavaScript.2020.10 - Moment.js 宣布进入维护状态](./2020/10.md)|ECMAScript、JavaScript API、数据科学、JavaScript 难点、requestAnimationFrame、插件系统、数组操作、变量与作用域、moment.js|
+|[JavaScript.2020.11 - jQuery 维护者心声访谈](./2020/11.md)|开发者访谈、Vue、React、Rust、编程语言、Hooks、Proxy、类型测试、CSS 函数、WebAssembly、TypeScript、Node 模块介绍|
 
 ## 联系
 
