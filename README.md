@@ -59,6 +59,7 @@
 |[JavaScript.2020.10 - Moment.js 宣布进入维护状态](./2020/10.md)|ECMAScript、JavaScript API、数据科学、JavaScript 难点、requestAnimationFrame、插件系统、数组操作、变量与作用域、moment.js|
 |[JavaScript.2020.11 - jQuery 维护者心声访谈](./2020/11.md)|开发者访谈、Vue、React、Rust、编程语言、Hooks、Proxy、类型测试、CSS 函数、WebAssembly、TypeScript、Node 模块介绍|
 |[JavaScript.2020.12 - 新年再见](./2020/12.md)|弱依赖、TypeScript、ES Modules、CI、优化技巧、React、面试、工程思考、Flash、bfcache|
+|[JavaScript.2021.01 - 回顾 JavaScript 于诞生之际的业界评价](./2021/01.md)|Node.js、资源加载优化、代码探索、React Hooks、JavaScript 考古史、性能评测、Web API、RxJS、状态管理、Jest、moment.js、服务端代码设计|
 
 ## 联系
 
