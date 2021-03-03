@@ -9,7 +9,7 @@
 ### 关于出刊数据来源
 
 1. 2019年1月之前的月刊内容同步自 [Mybridge AI](https://www.mybridge.co)，他们通过分享数、阅读时间以及自定义的机器学习算法为文章进行排名。整体筛选比例大约为 0.8%。
-2. 从2019年1月起，月刊不再同步其统计结果，而是整合包含 MyBridge、Google Developers、MDN、JavaScript Weekly、Nodejs weekly 与 Medium 优秀博客在内的多个信息源，方式为人工筛选，所含内容也更加丰富，不再仅限于每月十篇。
+2. 从2019年1月起，月刊不再同步其统计结果，而是整合包含 reddit、DEV、inDepthDev、Google Developers、MDN、JavaScript Weekly、Nodejs weekly 与 Medium 优秀博客在内的多个信息源，方式为人工筛选，所含内容也更加丰富，不再仅限于每月十篇。
 
 ### 关于月刊内容变更
 
@@ -61,6 +61,7 @@
 |[JavaScript.2020.12 - 新年再见](./2020/12.md)|弱依赖、TypeScript、ES Modules、CI、优化技巧、React、面试、工程思考、Flash、bfcache|
 |[JavaScript.2021.01 - 回顾 JavaScript 于诞生之际的业界评价](./2021/01.md)|Node.js、资源加载优化、代码探索、React Hooks、JavaScript 考古史、性能评测、Web API、RxJS、状态管理、Jest、moment.js、服务端代码设计|
 |[JavaScript.2021.02 - 越来越好的 JavaScript 生态系统](./2021/02.md)|JavaScript 年度报告、项目汇总、Puppeteer、TypeScript、ECMAScript、Deno、内存泄漏、应用构建|
+|[JavaScript.2021.03 - 数据可视化的开源十年](./2021/03.md)|数据可视化库、Streams API、JavaScript 性能分析、开发者访谈、V8、函数重载实践、GitHub 改版、函数用法实践、TypeScript、Angular、RxJS、npm|
 
 ## 联系
 
