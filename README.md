@@ -65,6 +65,7 @@
 |[JavaScript.2021.04](./2021/04.md)|在浏览器中运行 Windows 3.1|最佳实践、TypeScript、Svelte、React、三元运算符、语言规范、this、调试技巧、V8、Angular、NgZone、网站迁移|
 |[JavaScript.2021.05](./2021/05.md)|开发者大会|Web API、TypeScript、开发者工具、构建工具、JavaScript 杂谈、代码片段、安全、HTTP 拦截器、装饰器、Angular、Node.js|
 |[JavaScript.2021.06](./2021/06.md)|Node.js 12岁生日快乐|Events、Node.js、知识框架、Next.js、可视化代码片段、Tree Shaking、开发指南、组件开发经验、RxJS、Angular template|
+|[JavaScript.2021.07](./2021/07.md)|ES2021 定稿|ES2021、语言解析原理、JAvaScript 内存测试、React 规划、WebAssembly、webpack、ECMAScript 特性、Node.js、Vue3、Node.js 库|
 
 ## 联系
 
