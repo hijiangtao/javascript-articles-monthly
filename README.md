@@ -66,6 +66,7 @@
 |[JavaScript.2021.05](./2021/05.md)|开发者大会|Web API、TypeScript、开发者工具、构建工具、JavaScript 杂谈、代码片段、安全、HTTP 拦截器、装饰器、Angular、Node.js|
 |[JavaScript.2021.06](./2021/06.md)|Node.js 12岁生日快乐|Events、Node.js、知识框架、Next.js、可视化代码片段、Tree Shaking、开发指南、组件开发经验、RxJS、Angular template|
 |[JavaScript.2021.07](./2021/07.md)|ES2021 定稿|ES2021、语言解析原理、JAvaScript 内存测试、React 规划、WebAssembly、webpack、ECMAScript 特性、Node.js、Vue3、Node.js 库|
+|[JavaScript.2021.08](./2021/08.md)|开发者生态系统现状报告|调试技巧、Yarn、性能分析、Web Worker、Node.js API、工作线程、JavaScript 历史、开发者调查|
 
 ## 联系
 
