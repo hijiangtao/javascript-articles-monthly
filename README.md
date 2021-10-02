@@ -68,6 +68,7 @@
 |[JavaScript.2021.07](./2021/07.md)|ES2021 定稿|ES2021、语言解析原理、JAvaScript 内存测试、React 规划、WebAssembly、webpack、ECMAScript 特性、Node.js、Vue3、Node.js 库|
 |[JavaScript.2021.08](./2021/08.md)|开发者生态系统现状报告|调试技巧、Yarn、性能分析、Web Worker、Node.js API、工作线程、JavaScript 历史、开发者调查|
 |[JavaScript.2021.09](./2021/09.md)|敏捷已死，敏捷万岁|TypeScript、数据可视化、MongoDB、Promise API、NestJS、UI 构建实践经验、React Hooks、OOP、敏捷开发|
+|[JavaScript.2021.10](./2021/10.md)|JS Logo 发布十年啦|Web Worker、JavaScript 实现、JavaScript 引擎、MediaStream API、构建优化、JSON 数据库、资源打包、Paint API、正则表达式、NPM 错误提示、React 组件、VS Code 快捷方式、加载耗时优化、框架学习、RxJS、webpack、交互追踪、Angular 架构设计、微前端、样式技巧、Buffer polyfill、日志实现|
 
 ## 联系
 
