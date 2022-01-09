@@ -71,6 +71,7 @@
 |[JavaScript.2021.10](./2021/10.md)|JS Logo 发布十年啦|Web Worker、JavaScript 实现、JavaScript 引擎、MediaStream API、构建优化、JSON 数据库、资源打包、Paint API、正则表达式、NPM 错误提示、React 组件、VS Code 快捷方式、加载耗时优化、框架学习、RxJS、webpack、交互追踪、Angular 架构设计、微前端、样式技巧、Buffer polyfill、日志实现|
 |[JavaScript.2021.11](./2021/11.md)|临近年末的 Web 技术大会|算法与数据结构、Code Review、HTTP 请求处理、基础概念、CORS、Deno、nuxt、Web streams、JavaScript 测试、CSS 调试、微前端、webpack、Angular 表单|
 |[JavaScript.2021.12](./2021/12.md)|Angular v13|remix 框架介绍、TypeScript、Rust、代码风格、chrome 新功能、Angular、SPA、状态机、状态管理方案|
+|[JavaScript.2022.01](./2022/01.md)|-|Angular、JSON、狗UI教案工具、Svelte、React、Web API、代码瘦身、装饰器、WebAssembly|
 
 ## 联系
 
