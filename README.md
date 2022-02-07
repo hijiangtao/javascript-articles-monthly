@@ -72,6 +72,7 @@
 |[JavaScript.2021.11](./2021/11.md)|临近年末的 Web 技术大会|算法与数据结构、Code Review、HTTP 请求处理、基础概念、CORS、Deno、nuxt、Web streams、JavaScript 测试、CSS 调试、微前端、webpack、Angular 表单|
 |[JavaScript.2021.12](./2021/12.md)|Angular v13|remix 框架介绍、TypeScript、Rust、代码风格、chrome 新功能、Angular、SPA、状态机、状态管理方案|
 |[JavaScript.2022.01](./2022/01.md)|-|Angular、JSON、狗UI教案工具、Svelte、React、Web API、代码瘦身、装饰器、WebAssembly|
+|[JavaScript.2022.02](./2022/02.md)|-|TypeScript、structuredClone API、Remix、JavaScript 游戏开发、2021报告、ES2022、Web 应用工具、管道运算符、Angular 指南、Node.js 项目构建|
 
 ## 联系
 
