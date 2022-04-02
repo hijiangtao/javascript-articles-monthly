@@ -74,6 +74,7 @@
 | [JavaScript.2022.01](./2022/01.md) |-|Angular、JSON、狗UI教案工具、Svelte、React、Web API、代码瘦身、装饰器、WebAssembly|
 | [JavaScript.2022.02](./2022/02.md) |-|TypeScript、structuredClone API、Remix、JavaScript 游戏开发、2021报告、ES2022、Web 应用工具、管道运算符、Angular 指南、Node.js 项目构建|
 | [JavaScript.2022.03](./2022/03.md) |崭新的 MDN|MDN、ECMAScript、包装对象、后端语言、调试、Angular 编译器、JavaScript 应用、内存泄露、SplitChunksPlugin、OOP、React 应用性能|
+| [JavaScript.2022.04](./2022/04.md) |React v18 来啦|React、ECMAScript、关键渲染路径、最佳实践、应用设计、Chrome、布局算法、HTML、webkit|
 
 ## 联系
 
