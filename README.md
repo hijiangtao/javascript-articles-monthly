@@ -81,7 +81,8 @@
 | [JavaScript.2022.08](./2022/08.md) | ES2022 来了                | ES2022、干净架构、开发者实践、JavaScript 代码瘦身、SOLID 实践、JavaScript 运行时、前端优化、OpenJS、XMLHttpRequest、Node.js API                                                                                                  |
 | [JavaScript.2022.09](./2022/09.md) | -                        | 网页抓取库、JavaScript 未来特性、开发模式、jQuery、Node.js 多线程、代码优化、Three.js、React、VueConf US 2022、Node.js bin 脚本                                                                                                  |
 | [JavaScript.2022.10](./2022/10.md) | 很酷的开源库                   | 框架演进讨论、TypeScript、ECMAScript 提案、开发最佳实践、JavaScript API、Node.js、React Native、JavaScript 历史、时间操作开源库、JavaScript 开发案例、开源库介绍                                                                            |
-| [JavaScript.2022.11](./2022/11.md) |                          | 打包工具、性能提升、单元测试、Web API、V8、TypeScript、URL 验证、puppeteer、Jest、响应式动画                                                                                                                                  |
+| [JavaScript.2022.11](./2022/11.md) | -                        | 打包工具、性能提升、单元测试、Web API、V8、TypeScript、URL 验证、puppeteer、Jest、响应式动画                                                                                                                                  |
+| [JavaScript.2022.12](./2022/12.md) | -                        | Realm、Generator、TypeScript、Angular、React Native、Vue、Turbopack、Deno、Temporal API、Nodejs 安全                                                                                                         |
 
 ## 联系
 
