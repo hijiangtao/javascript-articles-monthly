@@ -83,6 +83,7 @@
 | [JavaScript.2022.10](./2022/10.md) | 很酷的开源库                   | 框架演进讨论、TypeScript、ECMAScript 提案、开发最佳实践、JavaScript API、Node.js、React Native、JavaScript 历史、时间操作开源库、JavaScript 开发案例、开源库介绍                                                                            |
 | [JavaScript.2022.11](./2022/11.md) | -                        | 打包工具、性能提升、单元测试、Web API、V8、TypeScript、URL 验证、puppeteer、Jest、响应式动画                                                                                                                                  |
 | [JavaScript.2022.12](./2022/12.md) | -                        | Realm、Generator、TypeScript、Angular、React Native、Vue、Turbopack、Deno、Temporal API、Nodejs 安全                                                                                                         |
+| [JavaScript.2023.01](./2023/01.md) | -                        | 测试最佳实践、npm 包开发、Node.js 框架、Svelte、Web 开发历史、Web Worker、React、TypeScript、函数组件、Redux、跨端框架、编码技能经验                                                                                                      |
 
 ## 联系
 
