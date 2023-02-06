@@ -84,6 +84,7 @@
 | [JavaScript.2022.11](./2022/11.md) | -                        | 打包工具、性能提升、单元测试、Web API、V8、TypeScript、URL 验证、puppeteer、Jest、响应式动画                                                                                                                                  |
 | [JavaScript.2022.12](./2022/12.md) | -                        | Realm、Generator、TypeScript、Angular、React Native、Vue、Turbopack、Deno、Temporal API、Nodejs 安全                                                                                                         |
 | [JavaScript.2023.01](./2023/01.md) | -                        | 测试最佳实践、npm 包开发、Node.js 框架、Svelte、Web 开发历史、Web Worker、React、TypeScript、函数组件、Redux、跨端框架、编码技能经验                                                                                                      |
+| [JavaScript.2023.02](./2023/02.md) | -                        | Angular API、变更检测、页面性能优化、框架渲染流程、深拷贝、JavaScript 事件、TypeScript 错误处理、内存泄漏、JSPI 介绍、JavaScript API 最佳实践、TypeScript 新版介绍、JavaScript 项目新年展望与2022总结、TypeScript 讨论                                          |
 
 ## 联系
 
