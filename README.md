@@ -86,6 +86,7 @@
 | [JavaScript.2023.01](./2023/01.md) | -                        | 测试最佳实践、npm 包开发、Node.js 框架、Svelte、Web 开发历史、Web Worker、React、TypeScript、函数组件、Redux、跨端框架、编码技能经验                                                                                                      |
 | [JavaScript.2023.02](./2023/02.md) | -                        | Angular API、变更检测、页面性能优化、框架渲染流程、深拷贝、JavaScript 事件、TypeScript 错误处理、内存泄漏、JSPI 介绍、JavaScript API 最佳实践、TypeScript 新版介绍、JavaScript 项目新年展望与2022总结、TypeScript 讨论                                          |
 | [JavaScript.2023.03](./2023/03.md) | Node.js 之父专访             | ECMAScript、Vue、Chrome 插件分析、React、Lodash、JavaScript 事件监听器、Web 开发趋势、SSR、eslint、代码开发、Web 运行时                                                                                                         |
+| [JavaScript.2023.04](./2023/04.md) | 前端开发走向终结                 | 前端开发未来展望、React 框架未来展望、Web API、TC39 会议纪要、Visual Studio Code、React 开源进展、JavaScript 开发实践、语言特性介绍、TypeScript 仓库变动进展、npm scripts、deno、React 实践、JavaScript 站点生成工具回顾、JavaScript 垃圾回收器、astro.js、electron   |
 
 ## 联系
 
