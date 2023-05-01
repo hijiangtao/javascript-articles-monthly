@@ -10,6 +10,7 @@
 
 1. 2019年1月之前的月刊内容同步自 [Mybridge AI](https://www.mybridge.co)，他们通过分享数、阅读时间以及自定义的机器学习算法为文章进行排名。整体筛选比例大约为 0.8%。
 2. 从2019年1月起，月刊不再同步其统计结果，而是整合包含 reddit、DEV、inDepthDev、Google Developers、MDN、JavaScript Weekly、Nodejs weekly 与 Medium 优秀博客在内的多个信息源，方式为人工筛选，所含内容也更加丰富，不再仅限于每月十篇。
+3. 从2023年5月起，月刊的编写过程可能会受到 GPT4 辅助。
 
 ### 关于月刊内容变更
 
@@ -87,6 +88,7 @@
 | [JavaScript.2023.02](./2023/02.md) | -                        | Angular API、变更检测、页面性能优化、框架渲染流程、深拷贝、JavaScript 事件、TypeScript 错误处理、内存泄漏、JSPI 介绍、JavaScript API 最佳实践、TypeScript 新版介绍、JavaScript 项目新年展望与2022总结、TypeScript 讨论                                          |
 | [JavaScript.2023.03](./2023/03.md) | Node.js 之父专访             | ECMAScript、Vue、Chrome 插件分析、React、Lodash、JavaScript 事件监听器、Web 开发趋势、SSR、eslint、代码开发、Web 运行时                                                                                                         |
 | [JavaScript.2023.04](./2023/04.md) | 前端开发走向终结                 | 前端开发未来展望、React 框架未来展望、Web API、TC39 会议纪要、Visual Studio Code、React 开源进展、JavaScript 开发实践、语言特性介绍、TypeScript 仓库变动进展、npm scripts、deno、React 实践、JavaScript 站点生成工具回顾、JavaScript 垃圾回收器、astro.js、electron   |
+| [JavaScript.2023.05](./2023/05.md) | -                        | Web Worker、Create React App、ECMAScript、NPM 包溯源、算法与数据结构、Passkeys、Deno、Ranger、项目实践、React Native                                                                                                     |
 
 ## 联系
 

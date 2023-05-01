@@ -19,8 +19,8 @@
 
 # 微信
 
-前言：由于限制文中链接无法跳转，点击底部阅读原文可查看原文链接。月刊系列汇总可点击上方合集按钮进入查看，也可在公众号内回复「JavaScriptMonthly」获取查看。
+*前言：由于限制文中链接无法跳转，点击底部阅读原文可查看原文链接。月刊系列汇总可点击上方合集按钮进入查看，也可在公众号内回复「JavaScriptMonthly」获取查看。*
 
-往期所有清单或文章汇总可查看 hijiangtao/javascript-articles-monthly 项目，点击"Watch"获取 JavaScript 月刊更新的邮件提醒。如果觉得有帮助的话，欢迎点个"Star"支持哦。
+往期所有清单或文章汇总可查看 [hijiangtao/javascript-articles-monthly](https://github.com/hijiangtao/javascript-articles-monthly) 项目，点击"Watch"获取 JavaScript 月刊更新的邮件提醒。如果觉得有帮助的话，欢迎点个"Star"支持哦。
 
-https://github.com/hijiangtao/javascript-articles-monthly/blob/master/2023/02.md
+月刊永久查看地址：<https://github.com/hijiangtao/javascript-articles-monthly/blob/master/2023/04.md>
