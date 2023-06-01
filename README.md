@@ -89,6 +89,7 @@
 | [JavaScript.2023.03](./2023/03.md) | Node.js 之父专访             | ECMAScript、Vue、Chrome 插件分析、React、Lodash、JavaScript 事件监听器、Web 开发趋势、SSR、eslint、代码开发、Web 运行时                                                                                                         |
 | [JavaScript.2023.04](./2023/04.md) | 前端开发走向终结                 | 前端开发未来展望、React 框架未来展望、Web API、TC39 会议纪要、Visual Studio Code、React 开源进展、JavaScript 开发实践、语言特性介绍、TypeScript 仓库变动进展、npm scripts、deno、React 实践、JavaScript 站点生成工具回顾、JavaScript 垃圾回收器、astro.js、electron   |
 | [JavaScript.2023.05](./2023/05.md) | -                        | Web Worker、Create React App、ECMAScript、NPM 包溯源、算法与数据结构、Passkeys、Deno、Ranger、项目实践、React Native                                                                                                     |
+| [JavaScript.2023.06](./2023/06.md) | -                        | Node.js 性能、jQuery、性能工具、Bun、ChatGPT、Web Component、Next.js、ECMAScript、JavaScript 生态、类型实现、Angular、Event Loop                                                                                         |
 
 ## 联系
 
