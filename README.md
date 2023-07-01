@@ -90,6 +90,7 @@
 | [JavaScript.2023.04](./2023/04.md) | 前端开发走向终结                 | 前端开发未来展望、React 框架未来展望、Web API、TC39 会议纪要、Visual Studio Code、React 开源进展、JavaScript 开发实践、语言特性介绍、TypeScript 仓库变动进展、npm scripts、deno、React 实践、JavaScript 站点生成工具回顾、JavaScript 垃圾回收器、astro.js、electron   |
 | [JavaScript.2023.05](./2023/05.md) | -                        | Web Worker、Create React App、ECMAScript、NPM 包溯源、算法与数据结构、Passkeys、Deno、Ranger、项目实践、React Native                                                                                                     |
 | [JavaScript.2023.06](./2023/06.md) | -                        | Node.js 性能、jQuery、性能工具、Bun、ChatGPT、Web Component、Next.js、ECMAScript、JavaScript 生态、类型实现、Angular、Event Loop                                                                                         |
+| [JavaScript.2023.07](./2023/07.md) | -                        | NPM 生态、devtools 实践、前端性能、TypeScript、浏览器测试、JSX 实现、开发者调查、服务器端组件、文本处理、AI、ECMAScript 提案                                                                                                                |
 
 ## 联系
 
