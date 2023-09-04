@@ -92,6 +92,7 @@
 | [JavaScript.2023.06](./2023/06.md) | -                        | Node.js 性能、jQuery、性能工具、Bun、ChatGPT、Web Component、Next.js、ECMAScript、JavaScript 生态、类型实现、Angular、Event Loop                                                                                         |
 | [JavaScript.2023.07](./2023/07.md) | -                        | NPM 生态、devtools 实践、前端性能、TypeScript、浏览器测试、JSX 实现、开发者调查、服务器端组件、文本处理、AI、ECMAScript 提案                                                                                                                |
 | [JavaScript.2023.08](./2023/08.md) | -                        | Hono、htmx、Cloudflare、名称混淆、VS Code、TypeScript 渐进类型、HTTP Server、框架对比、JavaScript的未来、Remotion、CommonJS、Angular                                                                                        |
+| [JavaScript.2023.09](./2023/09.md) | -                        | 打包方案、Lodash、ESM、WebAssembly、测试、烦调试、Node.js Docker、npx、身份验证、IDE                                                                                                                                    |
 
 ## 联系
 
