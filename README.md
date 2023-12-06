@@ -95,6 +95,7 @@
 | [JavaScript.2023.09](./2023/09.md) | -                        | 打包方案、Lodash、ESM、WebAssembly、测试、烦调试、Node.js Docker、npx、身份验证、IDE                                                                                                                                    |
 | [JavaScript.2023.10](./2023/10.md) | -                        | Polyfills、Deno、纪录片、响应式模式、基准测试、JavaScript API、JScript、TypeScript、Biome、Svelte                                                                                                                      |
 | [JavaScript.2023.11](./2023/11.md) | -                        | Web 组件、Solid.js、base64、Barrel File、billboard.js、测试断言、JavaScript 历史、Yalc、JavaScript JIT 编译器、NPM workspaces                                                                                         |
+| [JavaScript.2023.12](./2023/12.md) | -                        | Web Components、Prettier、Vue、Vi特、JavaScript 异常、基准测试、Bun、OpenAI、promise、Tailwind CSS、组件开发、TypeScript、Signals、Angular、DOM 操作、npm 包、React、V8 字符串、JavaScript 框架                                        |
 
 ## 联系
 
