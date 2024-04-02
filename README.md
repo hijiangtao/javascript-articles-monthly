@@ -99,6 +99,8 @@
 | [JavaScript.2024.01](./2024/01.md) | -                        | Web 组件、JavaScript 框架选择、深度克隆对象、V8 引擎改进、TypeScript 起源、Oxlint 发布、Deno、Electron、JIT、现代 JavaScript 框架工作原理以及 Angular 剖析                                                                                 |
 | [JavaScript.2024.02](./2024/02.md) | -                        | Node.js、JavaScript 开源库、面试题、数组、react server component、JS 概念、断言、CSS、Web API、React 库、AHA、React 开发、GitHub Copilot、Bun Shell                                                                           |
 | [JavaScript.2024.03](./2024/03.md) | -                        | Deno、React、Node.js、日期处理、测试、npm 包、Astro、性能优化、monorepo                                                                                                                                              |
+| [JavaScript.2024.04](./2024/04.md) | -                        | Promise、Node.js、Web 组件、Angular、Figma、优化技巧、JavaScript 框架模版、Web 发展、Angular 优化                                                                                                                       |
+
 
 ## 联系
 
