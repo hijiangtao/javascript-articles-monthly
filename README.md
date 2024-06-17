@@ -101,6 +101,7 @@
 | [JavaScript.2024.03](./2024/03.md) | -                        | Deno、React、Node.js、日期处理、测试、npm 包、Astro、性能优化、monorepo                                                                                                                                              |
 | [JavaScript.2024.04](./2024/04.md) | -                        | Promise、Node.js、Web 组件、Angular、Figma、优化技巧、JavaScript 框架模版、Web 发展、Angular 优化                                                                                                                       |
 | [JavaScript.2024.05](./2024/05.md) | -                        | 包管理器、jQuery、JSX、TypeScript、Performance、Rspack、开源组件库、JavaScript 提案、V8 沙盒、Svelte、Figma 开发、JavaScript 引擎                                                                                             |
+| [JavaScript.2024.06](./2024/06.md) | -                        | 文档生成、ECMAScript、代码格式化、开发前端库、TypeScript、Web API、Angular、esbuild、Node.js                                                                                             |
 
 ## 联系
 
